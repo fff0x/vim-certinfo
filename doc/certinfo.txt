@@ -1,0 +1,9 @@
+*certinfo.txt*  Show informations about tls certificates/keys using openssl
+
+Author:  ff0x <ff0x@infr.cat>
+Repo:    https://github.com/mbuelte/vim-certinfo
+License: GNU General Public License v3.0
+
+SUMMARY                                         *certinfo*
+
+This plugin shows informations about tls certificates or keys using openssl. A local installed openssl binary is required.
