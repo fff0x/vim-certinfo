@@ -5,6 +5,8 @@
 " TODO:
 " - Currently a separator line is required for selecting the information
 "   block. In a future version it would be better to split them.
+" - Make key binding customizable
+" - Does the key bind format only work for nvim?
 
 if !executable('openssl')
   echoerr 'openssl binary not found!'
